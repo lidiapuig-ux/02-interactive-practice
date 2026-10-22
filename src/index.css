@@ -1,0 +1,4 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+html, body, #root { height: 100%; margin: 0; background: #F7F8FA; color: #12151A; overflow: hidden; font-family: Manrope, system-ui, sans-serif; -webkit-font-smoothing: antialiased; }
